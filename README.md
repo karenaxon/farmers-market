@@ -1,4 +1,4 @@
-# Social Media Clone
+# Farmer's Market
 This application displays the location of Avery's Organics for today. Customers can also view lists of available produce for the different months of the year. 
 
 #### By Karen Axon and Albert Lee
